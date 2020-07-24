@@ -1,12 +1,13 @@
-### Hi there 👋
-![My Current Tech](https://github.com/noahub/noahub/blob/master/current_tech1.svg)
+### Hi there, welcome to my Github Profile 👋
+![My Current Tech](https://github.com/noahub/noahub/blob/master/current_tech1.svg | width=500)
 #### Current Tech
 - TypeScript
 - AWS Lambda
 - React
 - Figma
 - VSCode
-![My Current Job](https://github.com/noahub/noahub/blob/master/current_job.svg)
+
+![My Current Job](https://github.com/noahub/noahub/blob/master/current_job.svg | width=500)
 #### Current Job
 - Software Developer at Unbounce
 - Instructor at Lighthouse Labs
