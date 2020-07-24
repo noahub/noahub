@@ -1,11 +1,11 @@
 👋
 
-<img src="https://github.com/noahub/noahub/blob/master/current_tech1.svg" width="800px" alt="My Current Tech" />
+<a href="#"><img src="https://github.com/noahub/noahub/blob/master/current_tech1.svg" width="800px" alt="My Current Tech" /></a>
 
 #### Current Tech
 - TypeScript, AWS Lambda, React, Figma, VSCode
 
-<img src="https://github.com/noahub/noahub/blob/master/current_job.svg" width="800px" alt="My Current Job" />
+<a href="#"><img src="https://github.com/noahub/noahub/blob/master/current_job.svg" width="800px" alt="My Current Job" /></a>
 
 #### Current Job
 - Software Developer at Unbounce, Instructor at Lighthouse Labs
