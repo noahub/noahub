@@ -1,5 +1,11 @@
 ### Hi there 👋
 ![My Current Tech](https://github.com/noahub/noahub/blob/master/current_tech.svg)
+####Current Tech
+- TypeScript
+- AWS Lambda
+- React
+- Figma
+- VSCode
 <!--
 **noahub/noahub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
