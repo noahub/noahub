@@ -1,5 +1,5 @@
 ### Hi there 👋
-![My Current Tech](https://github.com/noahub/noahub/blob/master/current_tech.svg)
+![My Current Tech](https://github.com/noahub/noahub/blob/master/current_tech1.svg)
 #### Current Tech
 - TypeScript
 - AWS Lambda
@@ -7,6 +7,9 @@
 - Figma
 - VSCode
 ![My Current Job](https://github.com/noahub/noahub/blob/master/current_job.svg)
+#### Current Job
+- Software Developer at Unbounce
+- Instructor at Lighthouse Labs
 <!--
 **noahub/noahub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
