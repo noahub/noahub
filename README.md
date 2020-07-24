@@ -1,7 +1,7 @@
 <a href="#"><img src="https://github.com/noahub/noahub/blob/master/gh_current_tech.svg" width="700px" alt="My Current Tech" /></a>
 - TypeScript, AWS Lambda, React, Figma, VSCode
 
-<a href="#"><img src="https://github.com/noahub/noahub/blob/master/gh_current_job.svg" width="700px" alt="My Current Job" /></a>
+<a href="#"><img src="https://github.com/noahub/noahub/blob/master/gh_current_work.svg" width="700px" alt="My Current Work" /></a>
 - Software Developer at Unbounce, Instructor at Lighthouse Labs
 
 <a href="#"><img src="https://github.com/noahub/noahub/blob/master/gh_reach_me.svg" width="700px" alt="Reach Me" /></a>
