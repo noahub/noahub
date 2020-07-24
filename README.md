@@ -1,5 +1,6 @@
 ### Hi there, welcome to my Github Profile 👋
 ![My Current Tech](https://github.com/noahub/noahub/blob/master/current_tech1.svg | width=500)
+<img src="https://github.com/noahub/noahub/blob/master/current_tech1.svg" width="500px" alt="My Current Tech" />
 #### Current Tech
 - TypeScript
 - AWS Lambda
@@ -8,6 +9,7 @@
 - VSCode
 
 ![My Current Job](https://github.com/noahub/noahub/blob/master/current_job.svg | width=500)
+<img src="https://github.com/noahub/noahub/blob/master/current_job.svg" width="500px" alt="My Current Job" />
 #### Current Job
 - Software Developer at Unbounce
 - Instructor at Lighthouse Labs
