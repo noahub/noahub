@@ -5,7 +5,7 @@
 - Software Developer at Unbounce, Instructor at Lighthouse Labs
 
 <a href="#"><img src="https://github.com/noahub/noahub/blob/master/reach_me1.svg" width="500px" alt="Reach Me" /></a>
-My website: www.noahmatsell.ca, Twitter: @noahmatsell
+- My website: www.noahmatsell.ca, Twitter: @noahmatsell
 <!--
 **noahub/noahub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
