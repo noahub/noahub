@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![My Current Tech](current_tech.svg)
 <!--
 **noahub/noahub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
