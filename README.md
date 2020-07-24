@@ -1,5 +1,3 @@
-👋
-
 <a href="#"><img src="https://github.com/noahub/noahub/blob/master/current_tech1.svg" width="500px" alt="My Current Tech" /></a>
 - TypeScript, AWS Lambda, React, Figma, VSCode
 
