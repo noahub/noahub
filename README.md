@@ -1,18 +1,13 @@
-### Hi there, welcome to my Github Profile 👋
-<img src="https://github.com/noahub/noahub/blob/master/current_tech1.svg" width="700px" alt="My Current Tech" />
+👋
+<img src="https://github.com/noahub/noahub/blob/master/current_tech1.svg" width="800px" alt="My Current Tech" />
 
 #### Current Tech
-- TypeScript
-- AWS Lambda
-- React
-- Figma
-- VSCode
+- TypeScript, AWS Lambda, React, Figma, VSCode
 
-<img src="https://github.com/noahub/noahub/blob/master/current_job.svg" width="700px" alt="My Current Job" />
+<img src="https://github.com/noahub/noahub/blob/master/current_job.svg" width="800px" alt="My Current Job" />
 
 #### Current Job
-- Software Developer at Unbounce
-- Instructor at Lighthouse Labs
+- Software Developer at Unbounce, Instructor at Lighthouse Labs
 <!--
 **noahub/noahub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
