@@ -6,6 +6,7 @@
 - React
 - Figma
 - VSCode
+![My Current Job](https://github.com/noahub/noahub/blob/master/current_job.svg)
 <!--
 **noahub/noahub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
