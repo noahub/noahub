@@ -1,11 +1,11 @@
 <a href="#"><img src="https://github.com/noahub/noahub/blob/master/gh_current_tech.svg" width="700px" alt="My Current Tech" /></a>
-- TypeScript, AWS Lambda, React, Figma, VSCode
+- Language: TypeScript, Serverless: AWS Lambda, UI Lib: React, Design Tool: Figma, Editor: VSCode
 
 <a href="#"><img src="https://github.com/noahub/noahub/blob/master/gh_current_work.svg" width="700px" alt="My Current Work" /></a>
-- Software Developer at Unbounce, Instructor at Lighthouse Labs
+- Software Developer at [Unbounce](https://www.unbounce.com), Instructor at [Lighthouse Labs](https://www.lighthouselabs.com)
 
 <a href="#"><img src="https://github.com/noahub/noahub/blob/master/gh_reach_me.svg" width="700px" alt="Reach Me" /></a>
-- My website: www.noahmatsell.ca, Twitter: @noahmatsell
+- My website: www.noahmatsell.ca, Twitter: [@noahmatsell](https://twitter.com/intent/user?screen_name=noahmatsell)
 <!--
 **noahub/noahub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
