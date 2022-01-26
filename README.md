@@ -2,7 +2,7 @@
 - Language: TypeScript, Serverless: AWS Lambda, UI Lib: React, Design Tool: Figma, Editor: VSCode, Backend: Prisma, GraphQL
 
 <a href="#"><img src="https://github.com/noahub/noahub/blob/master/gh_current_work.svg" width="700px" alt="My Current Work" /></a>
-- Senior Engineer at [MetaLabl](https://www.metalab.com)
+- Senior Engineer at [MetaLab](https://www.metalab.com)
 
 <a href="#"><img src="https://github.com/noahub/noahub/blob/master/gh_former_work.svg" width="700px" alt="My Former Work" /></a>
 - Senior Software Developer at [Unbounce](https://www.unbounce.com), Instructor at [Lighthouse Labs](https://www.lighthouselabs.com)
