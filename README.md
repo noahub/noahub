@@ -1,8 +1,11 @@
 <a href="#"><img src="https://github.com/noahub/noahub/blob/master/gh_current_tech.svg" width="700px" alt="My Current Tech" /></a>
-- Language: TypeScript, Serverless: AWS Lambda, UI Lib: React, Design Tool: Figma, Editor: VSCode
+- Language: TypeScript, Serverless: AWS Lambda, UI Lib: React, Design Tool: Figma, Editor: VSCode, Backend: Prisma, GraphQL
 
 <a href="#"><img src="https://github.com/noahub/noahub/blob/master/gh_current_work.svg" width="700px" alt="My Current Work" /></a>
-- Software Developer at [Unbounce](https://www.unbounce.com), Instructor at [Lighthouse Labs](https://www.lighthouselabs.com)
+- Senior Engineer at [MetaLabl](https://www.metalab.com)
+
+<a href="#"><img src="https://github.com/noahub/noahub/blob/master/gh_former_work.svg" width="700px" alt="My Former Work" /></a>
+- Senior Software Developer at [Unbounce](https://www.unbounce.com), Instructor at [Lighthouse Labs](https://www.lighthouselabs.com)
 
 <a href="#"><img src="https://github.com/noahub/noahub/blob/master/gh_reach_me1.svg" width="700px" alt="Reach Me" /></a>
 - My website: www.noahmatsell.ca, Twitter: [@noahmatsell](https://twitter.com/intent/user?screen_name=noahmatsell)
